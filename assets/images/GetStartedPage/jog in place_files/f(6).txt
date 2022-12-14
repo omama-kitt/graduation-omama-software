@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=00e2580a161eb286-223b619a5ece00bf:T=1666990276:RT=1666990324:S=ALNI_MYwRYFoyONfMI6tEZqJXl6hh2yh5A","_expires_":1700686276,"_path_":"/","_domain_":"medicalnewstoday.com","_version_":1}]});
