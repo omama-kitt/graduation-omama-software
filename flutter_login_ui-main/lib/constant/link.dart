@@ -1,0 +1,19 @@
+const String linkServerName = "http://10.0.2.2/coursephp";
+
+const String linkregistation_page   = "$linkServerName/auth/signup.php";
+const String linklogin_page         = "$linkServerName/auth/login.php";
+const String linkcheckpassword      = "$linkServerName/auth/checkpassword.php";
+const String linkresetpassword      = "$linkServerName/auth/resetpassword.php";
+const String linkveryfiecode        = "$linkServerName/auth/veryfiecode.php";
+const String linkfitness_level      = "$linkServerName/auth/fitness_level.php";
+const String linkcall               = "$linkServerName/auth/call.php";
+const String linkaboutyourselfs               = "$linkServerName/auth/aboutyourselfs.php";
+const String linkaeditprofile              = "$linkServerName/auth/editprofile.php";
+const String linkaeditlunchemail             = "$linkServerName/auth/lunchemail.php";
+const String linkaedactivity            = "$linkServerName/auth/activity.php";
+const String linkaedaddevent           = "$linkServerName/auth/addevent.php";
+const String linkaddexercise         = "$linkServerName/auth/addexercise.php";
+const String linkdelete        = "$linkServerName/auth/delete.php";
+const String linkviwe        = "$linkServerName/auth/view.php";
+const String linkadddite        = "$linkServerName/auth/adddite.php";
+const String linkratee       = "$linkServerName/auth/ratee.php";
