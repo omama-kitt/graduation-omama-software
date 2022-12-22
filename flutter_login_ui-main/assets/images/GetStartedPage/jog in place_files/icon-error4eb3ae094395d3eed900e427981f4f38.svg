@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 C15.523,0 20,4.477 20,10 C20,15.523 15.523,20 10,20 C4.477,20 0,15.523 0,10 C0,4.477 4.477,0 10,0 Z M10,1 C5.0295,1 1,5.0295 1,10 C1,14.9705 5.0295,19 10,19 C14.9705,19 19,14.9705 19,10 C19,5.0295 14.9705,1 10,1 Z M10,12 C9.4475,12 9,11.5525 9,11 L9,5 C9,4.4475 9.4475,4 10,4 C10.5525,4 11,4.4475 11,5 L11,11 C11,11.5525 10.5525,12 10,12 Z M11,14.93995 C11,15.49245 10.5525,15.93995 10,15.93995 C9.4475,15.93995 9,15.49245 9,14.93995 C9,14.38795 9.4475,13.93995 10,13.93995 C10.5525,13.93995 11,14.38795 11,14.93995 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sticky-eMail-Desktop-v2-error" transform="translate(-1065.000000, -684.000000)">
+            <g id="Sticky-Capture" transform="translate(0.000000, 644.000000)">
+                <g id="basic/field/box+button-horiz/normal" transform="translate(791.000000, 25.000000)">
+                    <g id="basic/icon/alert-circle" transform="translate(274.000000, 15.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="alertcircle" fill="#FE2626" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
